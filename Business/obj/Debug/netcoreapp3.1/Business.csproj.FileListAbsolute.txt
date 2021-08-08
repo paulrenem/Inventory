@@ -1,0 +1,14 @@
+C:\ProyectosBlazor\Inventory\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\ProyectosBlazor\Inventory\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\ProyectosBlazor\Inventory\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\ProyectosBlazor\Inventory\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\ProyectosBlazor\Inventory\Business\bin\Debug\netcoreapp3.1\Entities.dll
+C:\ProyectosBlazor\Inventory\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\ProyectosBlazor\Inventory\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\ProyectosBlazor\Inventory\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+C:\ProyectosBlazor\Inventory\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\ProyectosBlazor\Inventory\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\ProyectosBlazor\Inventory\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\ProyectosBlazor\Inventory\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\ProyectosBlazor\Inventory\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\ProyectosBlazor\Inventory\Business\obj\Debug\netcoreapp3.1\Business.pdb
